@@ -40,3 +40,9 @@ Project PHP, JavaScript AJAX/JSON, dan MySQL untuk mengelola rekening air pelang
 - `print/` halaman cetak
 - `database/pdam_zernih.sql` script database
 - `docs/analisis-sistem.md` dokumen analisis singkat
+
+## Identitas Project
+
+- Kampus: Universitas Metamedia
+- Project: Sistem Informasi Rekening Air PDAM
+- Repository: Tugas project PHP dan MySQL
